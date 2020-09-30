@@ -1,3 +1,3 @@
 ﻿  10950.c
-MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
-C:\Users\limji\Desktop\baekjoon_c\Debug\baekjoon_c.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+C:\Users\limji\Desktop\baekjoon_c\baekjoon_c\stages\03. For\10950.c(6,6): warning C4101:  'result' :참조되지 않은 지역 변수입니다.
+  baekjoon_c.vcxproj -> C:\Users\limji\Desktop\baekjoon_c\Debug\baekjoon_c.exe
