@@ -45,5 +45,8 @@
     <ClCompile Include="stages\04. While\10952.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stages\04. While\10951.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

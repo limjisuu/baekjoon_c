@@ -46,7 +46,10 @@
     <ClCompile Include="stages\03. For\8393.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="stages\04. While\10952.c" />
+    <ClCompile Include="stages\04. While\10951.c" />
+    <ClCompile Include="stages\04. While\10952.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
