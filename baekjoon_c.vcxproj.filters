@@ -21,5 +21,8 @@
     <ClCompile Include="stages\03. For\8393.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stages\03. For\15552.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
