@@ -48,5 +48,8 @@
     <ClCompile Include="stages\04. While\10951.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stages\05. One Dimensional Array\10818.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
