@@ -52,7 +52,10 @@
     <ClCompile Include="stages\04. While\10952.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="stages\05. One Dimensional Array\10818.c" />
+    <ClCompile Include="stages\05. One Dimensional Array\10818.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="stages\05. One Dimensional Array\2562.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
