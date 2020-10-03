@@ -57,5 +57,8 @@
     <ClCompile Include="stages\05. One Dimensional Array\2577.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stages\05. One Dimensional Array\3052.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
